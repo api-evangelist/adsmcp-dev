@@ -66,7 +66,7 @@
 
 Ads MCP provides a read‑only analysis tool that scans your Google Ads search terms and identifies wasteful spend. Users can paste a report into AI assistants like ChatGPT or Claude to ask plain‑language questions such as “Where am I wasting money?”. The service never modifies campaigns and requires only read‑only access to Google Ads, ensuring safety. It offers a free check with no sign‑up, and paid pricing plans for higher volume. Detailed explanations of each cost‑driving query are provided.
 
-**Areas:** Advertising · AI · Google Ads · Cost Optimization · MCP
+**Areas:** Advertising · Artificial Intelligence · Google Ads · Cost Optimization · MCP
 
 ## Ads MCP on APIs.io
 
@@ -84,7 +84,7 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Adsmcp Dev Domain Security](https://apis.io/security/adsmcp-dev/adsmcp-dev-domain-security/)
+- [Ads MCP Domain Security](https://apis.io/security/adsmcp-dev/adsmcp-dev-domain-security/)
 
 ## Where to find this API
 
@@ -99,18 +99,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 16.3** — emerging · rubric 0.26.0 · scored 2026-10-31
+**Kin Score 15.1** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 57.1 |
+| Discoverability | 64.3 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
-| Developer ergonomics | 19.0 |
-| Access clarity | 31.6 |
+| Developer ergonomics | 13.1 |
+| Access clarity | 31.9 |
 
-**Agent readiness 21.8** — agent-aware
+**Agent readiness 21.4** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -136,8 +136,11 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 18.2** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/adsmcp-dev/](https://apis.io/providers/adsmcp-dev/).
 
